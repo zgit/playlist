@@ -1,0 +1,4 @@
+---
+  managerUsername: manager
+  password: test
+  waitObj: username

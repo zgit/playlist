@@ -1,0 +1,31 @@
+---
+global:
+  path: files
+
+default:
+  url: https://xs1qa2.xypro.com/Tesla
+  browser: chrome
+  username: qa.xs1
+  password: Hard5678
+  contType: Content-Type
+  contTypeCode: application/json
+
+qa:
+  url: https://www.hautelook.com
+  url1: https://origin.staging.hautelook.com
+  browser: firefox
+  username: qaUsername
+  password: Welcome1!
+  uri: https://www.hautelook.com/api
+  auth: Authorization
+  authCode: HWS a5a4d56c84b8d8cd0e0a0920edb8994c
+  contType: Content-Type
+  contTypeCode: application/json
+  apiUsername: test@user.com
+  apiPassword: 12345678
+
+stg:
+  url: http://qa.moodle.net/
+  browser: phantomjs
+  username: stgUsername
+  password: Welcome1!
