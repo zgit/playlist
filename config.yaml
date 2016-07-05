@@ -5,8 +5,8 @@ global:
 default:
   url: https://xs1qa2.xypro.com/Tesla
   browser: chrome
-  username: qa.xs1
-  password: Hard5678
+  username: <test>
+  password: <test>
   contType: Content-Type
   contTypeCode: application/json
 
